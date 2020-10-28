@@ -12,7 +12,7 @@ Python 3 (tested on Python 3.6.8)
 <br />**squares.py** - testing place for anything to do with pygame, to avoid messing up **pong.py** or **betaPong.py**
 
 ## How to Use
-<br />The left paddle is controlled with W and S keys.
+The left paddle is controlled with W and S keys.
 <br />The right paddle is controlled with the UP and DOWN arrow keys.
 
 ## Future Work
