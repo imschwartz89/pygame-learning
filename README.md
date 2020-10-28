@@ -5,4 +5,4 @@ Learning the pygame library for Python 3
 
 ## Folders
 **Pong** - contains Python 3 scripts to play the simple game Pong
-**screensaver** - contains Python 3 scripts that mimic screensavers
+<br />**screensaver** - contains Python 3 scripts that mimic screensavers
